@@ -1,0 +1,68 @@
+[
+  {
+    "path": "Full-Stack Software Engineer",
+    "description": "As a jack of all trades (and master of quite a few), a full-stack engineer can get a project done from start to finish. In this Career Path, you’ll begin with the front-end, move on to the back-end, then learn to connect the two. By the time you’re done, you’ll have the well-rounded skills needed to enter this in-demand job market.",
+    "pricing": "PRO",
+    "duration": "6 months",
+    "includes": "JavaScript, Node.JS, SQL, Express.JS, React, TDD, and more...",
+    "experience": "Beginners welcome",
+    "earn": "Certificate of Completion",
+    "id": "01",
+    "img": "https://img.freepik.com/free-vector/web-development-programmer-engineering-coding-website-augmented-reality-interface-screens-developer-project-engineer-programming-software-application-design-cartoon-illustration_107791-3863.jpg?w=996&t=st=1666808149~exp=1666808749~hmac=cb1daed46a393944cf5c11f0520b955dbe1917de0d823f2d44a41e2163c3b53a"
+  },
+  {
+    "path": "Back-End Engineer",
+    "description": "No matter what you’re building, having a strong foundation is crucial — that’s where back-end engineers come in. In this Career Path, you’ll start with programming servers and client-side interfaces, then level up to designing databases. By the end, you’ll have everything you need to start your career as a back-end engineer.",
+    "pricing": "PRO",
+    "duration": "4 months",
+    "includes": "Node.JS, Express.JS, PostgreSQL, Back-End, SQL, Security, and more...",
+    "experience": "Beginners welcome",
+    "earn": "Certificate of Completion",
+    "id": "02",
+    "img": "https://img.freepik.com/free-vector/programmer-working-web-development-code-engineer-programming-python-php-java-script-computer_90220-249.jpg?w=996&t=st=1666808236~exp=1666808836~hmac=7982efdc94a7c94874291ce6e390768b030b0fe4fe9b9e345e920bad323b720e"
+  },
+  {
+    "path": "iOS Developer",
+    "description": "This career path will help you develop the skills required to become an iOS Developer! You will build four iOS applications, including a social media app, that is a great addition to your portfolio. Note: This path is best for learners who are using a Mac device because the Xcode integrated development environment only works with the Apple operating system.",
+    "pricing": "PRO",
+    "duration": "28 weeks",
+    "includes": "iOS, Mobile Development, Swift, Firebase, SwiftUI, Xcode, Interview Prep, Backend Development, Git, Algorithms, Data Structures, and more...",
+    "experience": "Beginners welcome",
+    "earn": "Certificate of Completion",
+    "id": "03",
+    "img": "https://img.freepik.com/free-vector/app-development-illustration_52683-47931.jpg?w=996&t=st=1666808288~exp=1666808888~hmac=bec42deddb25ef3b8e2a737361ab865496910111f31a83aa55eb35965429f623"
+  },
+  {
+    "path": "Front-End Engineer",
+    "description": "Front-end engineers work closely with designers to make websites beautiful, functional, and fast. This Career Path will teach you not only the necessary languages and technologies, but how to think like a front-end engineer, too. By the end, you’ll have the portfolio and interview skills you need to start your new career.",
+    "pricing": "PRO",
+    "duration": "350 Hours",
+    "includes": "HTML, CSS, JavaScript, Front-End, Web Apps, React, and more...",
+    "experience": "Beginners welcome",
+    "earn": "Certificate of Completion",
+    "id": "04",
+    "img": "https://img.freepik.com/free-vector/programming-concept-illustration_114360-1351.jpg?w=826&t=st=1666808363~exp=1666808963~hmac=118db5a947be88c14b5dee032a290b7934047d3f80b057579c6051dd34fa9539"
+  },
+  {
+    "path": "Computer Science",
+    "description": "No matter what your coding goals are, the best place to start is by building a strong foundation. Similar to a college course, this Path will teach you how to think and code like a professional. You’ll learn Computer Science fundamentals, build a professional portfolio, and prepare for an entry-level role in tech.",
+    "pricing": "PRO",
+    "duration": "20 weeks",
+    "includes": "Python, Command Line, Git, Data Structures, and more...",
+    "experience": "Beginners welcome",
+    "earn": "Certificate of Completion",
+    "id": "05",
+    "img": "https://img.freepik.com/free-vector/combination-circuit-head-shape-artificial-intelligence-moral-electronic-world-illustration_456031-123.jpg?w=996&t=st=1666808428~exp=1666809028~hmac=68bdd4a7b72ff06382748c195fc5779a242ef2974872ee688f1b1523967d2d85"
+  },
+  {
+    "path": "Data Scientist: Analytics Specialist",
+    "description": "Companies are looking for Data Scientists who can manage data, get results, and drive decision-making. Analytics is all about using data to answer questions, and this Career Path will teach you just that. You'll learn how to analyze data, build dashboards, and deliver impactful reports. Along the way, you'll build portfolio-worthy projects that will help you get job-ready.",
+    "pricing": "PRO",
+    "duration": "28 Weeks",
+    "includes": "Python 3, SQL, pandas, scikit-learn, Matplotlib, Tableau, Excel, …and more",
+    "experience": "Beginners welcome",
+    "earn": "Certificate of Completion",
+    "id": "06",
+    "img": "https://img.freepik.com/free-vector/visual-data-concept-illustration_114360-2759.jpg?w=826&t=st=1666808505~exp=1666809105~hmac=9a7a746852ba7209d7c4cad4b8755051e93da1180502596fa2af86ac039d1d68"
+  }
+]
