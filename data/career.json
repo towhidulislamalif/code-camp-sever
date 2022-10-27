@@ -2,7 +2,7 @@
   {
     "path": "Full-Stack Software Engineer",
     "description": "As a jack of all trades (and master of quite a few), a full-stack engineer can get a project done from start to finish. In this Career Path, you’ll begin with the front-end, move on to the back-end, then learn to connect the two. By the time you’re done, you’ll have the well-rounded skills needed to enter this in-demand job market.",
-    "pricing": "PRO",
+    "pricing": "Premium",
     "duration": "6 months",
     "includes": "JavaScript, Node.JS, SQL, Express.JS, React, TDD, and more...",
     "experience": "Beginners welcome",
@@ -13,7 +13,7 @@
   {
     "path": "Back-End Engineer",
     "description": "No matter what you’re building, having a strong foundation is crucial — that’s where back-end engineers come in. In this Career Path, you’ll start with programming servers and client-side interfaces, then level up to designing databases. By the end, you’ll have everything you need to start your career as a back-end engineer.",
-    "pricing": "PRO",
+    "pricing": "Premium",
     "duration": "4 months",
     "includes": "Node.JS, Express.JS, PostgreSQL, Back-End, SQL, Security, and more...",
     "experience": "Beginners welcome",
@@ -24,7 +24,7 @@
   {
     "path": "iOS Developer",
     "description": "This career path will help you develop the skills required to become an iOS Developer! You will build four iOS applications, including a social media app, that is a great addition to your portfolio. Note: This path is best for learners who are using a Mac device because the Xcode integrated development environment only works with the Apple operating system.",
-    "pricing": "PRO",
+    "pricing": "Premium",
     "duration": "28 weeks",
     "includes": "iOS, Mobile Development, Swift, Firebase, SwiftUI, Xcode, Interview Prep, Backend Development, Git, Algorithms, Data Structures, and more...",
     "experience": "Beginners welcome",
@@ -35,7 +35,7 @@
   {
     "path": "Front-End Engineer",
     "description": "Front-end engineers work closely with designers to make websites beautiful, functional, and fast. This Career Path will teach you not only the necessary languages and technologies, but how to think like a front-end engineer, too. By the end, you’ll have the portfolio and interview skills you need to start your new career.",
-    "pricing": "PRO",
+    "pricing": "Premium",
     "duration": "350 Hours",
     "includes": "HTML, CSS, JavaScript, Front-End, Web Apps, React, and more...",
     "experience": "Beginners welcome",
@@ -46,7 +46,7 @@
   {
     "path": "Computer Science",
     "description": "No matter what your coding goals are, the best place to start is by building a strong foundation. Similar to a college course, this Path will teach you how to think and code like a professional. You’ll learn Computer Science fundamentals, build a professional portfolio, and prepare for an entry-level role in tech.",
-    "pricing": "PRO",
+    "pricing": "Premium",
     "duration": "20 weeks",
     "includes": "Python, Command Line, Git, Data Structures, and more...",
     "experience": "Beginners welcome",
@@ -57,7 +57,7 @@
   {
     "path": "Data Scientist: Analytics Specialist",
     "description": "Companies are looking for Data Scientists who can manage data, get results, and drive decision-making. Analytics is all about using data to answer questions, and this Career Path will teach you just that. You'll learn how to analyze data, build dashboards, and deliver impactful reports. Along the way, you'll build portfolio-worthy projects that will help you get job-ready.",
-    "pricing": "PRO",
+    "pricing": "Premium",
     "duration": "28 Weeks",
     "includes": "Python 3, SQL, pandas, scikit-learn, Matplotlib, Tableau, Excel, …and more",
     "experience": "Beginners welcome",

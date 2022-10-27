@@ -8,7 +8,7 @@ const app = express();
 
 app.use(cors());
 
-const port = 5000;
+const port = process.env.Port || 5000;
 
 app.get('/', (req, res) => {
   res.send('Hello World!');
@@ -27,3 +27,5 @@ app.get('/career/:id', (req, res) => {
 app.listen(port, () => {
   console.log(`Example app listening on port ${port}`);
 });
+
+module.exports = app;
